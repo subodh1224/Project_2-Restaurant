@@ -24,4 +24,5 @@ Project was to recommend a restaurant based on the different cases. In this proj
 - Jupyter
 - Kaggle
 - Cloudera 5
-![image](https://user-images.githubusercontent.com/62233971/134798137-b0180f9b-7625-4ba2-b3f9-5ea7080fe93e.png)
+
+
