@@ -2,6 +2,24 @@
 
 Project was to recommend a restaurant based on the different cases. In this project we have used PySpark, SparkSQL, jupyterNotebook, Cloudera 5
 
+### Environment / Technologies :
+
+- Spark 
+- Spark Sql
+- Hadoop
+- Hive
+- Jupyter
+- Kaggle
+- Cloudera 5
+
+#### Features :
+ - Partitioning :- It was used to make our data more accessible and presentable
+ - Bucketing:- It was used mainly for price column ,So that we can bucket the high ranges of price into minimal number of buckets
+ - Data PreProcessing:- We used Python for data processing to remove all the null values and to add new data
+  - Data Sets and DataFrames
+![image](https://user-images.githubusercontent.com/62233971/135134123-28a7b6ec-0df2-4356-addd-83647cad3863.png)
+
+
 ### Contributions :
 1. Eswar (Data Analytics)
 2. Suleman (Data Collection & preprocessing)
@@ -14,15 +32,5 @@ Project was to recommend a restaurant based on the different cases. In this proj
 3. We have processed this data in SparkSQL to extract some usecases from the user perspective. 
 4. We have added few more columns to the existing dataset from restaurant point of view.
 
-### Environment / Technologies :
-
-
-- Spark 
-- Spark Sql
-- Hadoop
-- Hive
-- Jupyter
-- Kaggle
-- Cloudera 5
 
 
