@@ -1,6 +1,6 @@
 ## Project_2-Restaurant_recomendation System
 
-Project was to recommend a restaurant based on the different cases. In this project we have used PySpark, SparkSQL, jupyterNotebook, Cloudera 5
+In this project, we have downloaded a dataset from Kaggle which consists of the restaurant details in Bangalore. We have performed preprocessing on this dataset and used the sample data of 1500 records. We have processed this data in Spark SQL to extract some use cases from the user perspective. We have added few more columns to the existing dataset from the restaurant's point of view.
 
 ### Environment / Technologies :
 
